@@ -1,0 +1,36 @@
+#Logo
+{
+	width: 100%;
+	height: 10%;
+	background-color: #888;
+	margin-bottom: 5%;
+	text-align: center;
+}
+#BlockArea
+{
+	margin-left: 25%;
+	height: 70%;
+	width:50%;
+	background-color: #EEE;	
+}
+.Block
+{
+	height: 46%;
+	width: 49%;
+	float: left;
+	text-align: center;
+	vertical-align: middle;
+	line-height: normal;
+	margin: 0.5%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+#Footer
+{
+	width: 100%;
+	height: 2%;
+	background-color: #393939;
+	position: fixed;
+	bottom: 0;
+}
