@@ -33,3 +33,67 @@
 	position: fixed;
 	bottom: 0;
 }
+#facebook{
+	height: 46%;
+	width: 49%;
+	float: left;
+	text-align: center;
+	vertical-align: middle;
+	margin: 0.5%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-color: #3b5998;
+	min-height: 300px;
+}
+#facebook:hover{
+	background-color: #2a4887;
+}
+#twitter{
+	height: 46%;
+	width: 49%;
+	float: left;
+	text-align: center;
+	vertical-align: middle;
+	margin: 0.5%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-color: #00aced;
+	min-height: 300px;
+}
+#twitter:hover{
+	background-color: #009bdc;
+}
+#appstore{
+	height: 46%;
+	width: 49%;
+	float: left;
+	text-align: center;
+	vertical-align: middle;
+	margin: 0.5%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	min-height: 300px;
+	background-color: #5690f2;
+}
+#appstore:hover{
+	background-color: #4580e1;
+}
+#google-play{
+	height: 46%;
+	width: 49%;
+	float: left;
+	text-align: center;
+	vertical-align: middle;
+	margin: 0.5%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-color: #343434;
+	min-height: 300px;
+}
+#google-play:hover{
+	background-color: #232323;
+}
